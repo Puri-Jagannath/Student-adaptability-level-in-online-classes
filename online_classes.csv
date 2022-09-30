@@ -1,0 +1,1206 @@
+,Gender,Age,Education Level,Institution Type,IT Student,Location,Load-shedding,Financial Condition,Internet Type,Network Type,Class Duration,Self Lms,Device,Adaptivity Level
+0,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+1,Girl,21-25,University,Non Government,No,Yes,High,Mid,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+2,Girl,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+3,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+4,Girl,16-20,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,0,No,Mobile,High
+5,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+6,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+7,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+8,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+9,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+10,Girl,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+11,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+12,Boy,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+13,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+14,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+15,Boy,11-15,School,Non Government,No,Yes,High,Poor,Wifi,4G,1-3,No,Mobile,Low
+16,Girl,26-30,University,Government,Yes,Yes,Low,Poor,Mobile Data,4G,0,No,Computer,Moderate
+17,Girl,21-25,University,Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+18,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+19,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3-6,No,Mobile,Low
+20,Girl,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+21,Boy,6-10,School,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+22,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,3-6,Yes,Mobile,High
+23,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+24,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+25,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+26,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+27,Boy,26-30,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+28,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+29,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3-6,No,Mobile,Low
+30,Girl,6-10,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+31,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+32,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+33,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+34,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+35,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Mobile,High
+36,Girl,21-25,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+37,Girl,6-10,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,High
+38,Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+39,Girl,11-15,School,Government,No,Yes,Low,Mid,Wifi,3G,1-3,No,Mobile,Low
+40,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+41,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+42,Girl,16-20,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,0,No,Mobile,High
+43,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+44,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Computer,High
+45,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+46,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+47,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+48,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+49,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Computer,High
+50,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+51,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+52,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+53,Boy,26-30,University,Government,Yes,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+54,Boy,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+55,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+56,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+57,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+58,Girl,11-15,School,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,High
+59,Boy,16-20,School,Government,No,No,Low,Poor,Mobile Data,3G,0,No,Mobile,High
+60,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+61,Boy,21-25,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+62,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,High
+63,Boy,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+64,Boy,11-15,School,Non Government,No,Yes,High,Poor,Wifi,4G,1-3,No,Mobile,Low
+65,Boy,26-30,University,Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+66,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+67,Girl,6-10,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,High
+68,Girl,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+69,Boy,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+70,Boy,21-25,College,Government,No,No,High,Poor,Mobile Data,3G,1-3,Yes,Mobile,Low
+71,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+72,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+73,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+74,Boy,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+75,Girl,6-10,School,Non Government,No,Yes,Low,Mid,Mobile Data,2G,1-3,No,Mobile,Low
+76,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,High
+77,Girl,21-25,College,Government,No,No,High,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+78,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3-6,No,Mobile,Moderate
+79,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+80,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+81,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3-6,No,Mobile,Moderate
+82,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+83,Girl,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,High
+84,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+85,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+86,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+87,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+88,Boy,11-15,School,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+89,Boy,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Moderate
+90,Boy,21-25,University,Non Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+91,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+92,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Computer,High
+93,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Mobile Data,3G,1-3,Yes,Mobile,Low
+94,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+95,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+96,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+97,Girl,11-15,School,Government,No,No,High,Poor,Mobile Data,2G,1-3,No,Mobile,Low
+98,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+99,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+100,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+101,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+102,Girl,16-20,College,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,High
+103,Boy,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+104,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Wifi,4G,1-3,No,Mobile,Moderate
+105,Boy,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+106,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+107,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+108,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+109,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,High
+110,Boy,6-10,School,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+111,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+112,Boy,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,High
+113,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Mobile Data,3G,1-3,Yes,Mobile,Low
+114,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+115,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+116,Boy,26-30,University,Government,Yes,Yes,Low,Mid,Wifi,4G,0,No,Computer,Moderate
+117,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,3-6,Yes,Computer,Low
+118,Boy,16-20,College,Government,No,No,High,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+119,Girl,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,High
+120,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3-6,No,Computer,Low
+121,Girl,16-20,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+122,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+123,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+124,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Computer,Moderate
+125,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+126,Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+127,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+128,Girl,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+129,Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,Yes,Computer,Moderate
+130,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Mobile,High
+131,Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+132,Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+133,Boy,16-20,College,Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+134,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+135,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+136,Girl,16-20,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,0,No,Mobile,High
+137,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+138,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+139,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+140,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+141,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+142,Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+143,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+144,Boy,21-25,University,Government,No,No,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+145,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+146,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,3G,3-6,No,Computer,Low
+147,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+148,Girl,21-25,University,Non Government,No,Yes,High,Poor,Wifi,4G,3-6,No,Mobile,Low
+149,Girl,21-25,University,Government,No,No,Low,Mid,Mobile Data,2G,1-3,No,Mobile,Low
+150,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+151,Boy,16-20,College,Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+152,Boy,11-15,School,Non Government,No,Yes,Low,Rich,Mobile Data,4G,1-3,No,Mobile,Moderate
+153,Boy,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+154,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+155,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Computer,Low
+156,Boy,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+157,Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,No,Computer,Moderate
+158,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+159,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,1-3,Yes,Computer,High
+160,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,High
+161,Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+162,Boy,16-20,University,Government,No,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+163,Boy,6-10,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,High
+164,Girl,16-20,College,Government,No,No,High,Poor,Mobile Data,4G,0,No,Mobile,Low
+165,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+166,Boy,21-25,College,Government,No,No,High,Poor,Mobile Data,3G,1-3,Yes,Mobile,Low
+167,Boy,26-30,University,Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+168,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+169,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+170,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,Yes,Computer,High
+171,Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+172,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+173,Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,Yes,Computer,Moderate
+174,Boy,11-15,School,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+175,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+176,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Wifi,3G,1-3,No,Mobile,Moderate
+177,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+178,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+179,Girl,16-20,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,0,No,Mobile,High
+180,Boy,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+181,Boy,1-5,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+182,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+183,Girl,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Computer,Moderate
+184,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+185,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+186,Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+187,Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+188,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+189,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+190,Boy,11-15,School,Non Government,No,Yes,High,Poor,Wifi,4G,1-3,No,Mobile,Low
+191,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+192,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+193,Boy,16-20,School,Government,No,No,Low,Poor,Mobile Data,3G,0,No,Mobile,High
+194,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+195,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,High
+196,Boy,16-20,College,Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+197,Boy,11-15,School,Non Government,Yes,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+198,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+199,Girl,11-15,School,Government,No,Yes,Low,Mid,Wifi,3G,1-3,No,Mobile,Low
+200,Boy,6-10,School,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+201,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+202,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+203,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+204,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+205,Boy,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+206,Boy,26-30,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+207,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+208,Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+209,Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,3G,3-6,Yes,Mobile,Low
+210,Girl,11-15,School,Government,No,No,High,Poor,Mobile Data,2G,1-3,No,Mobile,Low
+211,Girl,16-20,School,Government,No,No,Low,Rich,Mobile Data,4G,1-3,No,Mobile,Moderate
+212,Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+213,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3-6,No,Computer,Low
+214,Girl,21-25,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+215,Boy,16-20,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1-3,No,Mobile,Moderate
+216,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+217,Girl,16-20,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,0,No,Mobile,High
+218,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,3G,3-6,No,Mobile,Low
+219,Boy,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,High
+220,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Computer,High
+221,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3-6,No,Mobile,Moderate
+222,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+223,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+224,Girl,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+225,Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+226,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+227,Boy,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+228,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+229,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+230,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Wifi,3G,1-3,No,Mobile,Moderate
+231,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+232,Girl,16-20,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+233,Boy,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+234,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+235,Boy,21-25,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,3-6,Yes,Mobile,Low
+236,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+237,Girl,26-30,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+238,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,2G,3-6,No,Mobile,Moderate
+239,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+240,Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+241,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+242,Girl,11-15,School,Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+243,Girl,16-20,College,Non Government,No,No,High,Mid,Wifi,4G,3-6,No,Mobile,Low
+244,Girl,11-15,School,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,High
+245,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Wifi,4G,1-3,No,Mobile,Moderate
+246,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Computer,High
+247,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+248,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+249,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,High
+250,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+251,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+252,Boy,16-20,College,Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+253,Boy,21-25,University,Government,No,No,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+254,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Wifi,3G,1-3,No,Mobile,Moderate
+255,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+256,Boy,16-20,College,Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+257,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+258,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+259,Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+260,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+261,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,3-6,Yes,Mobile,High
+262,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3-6,No,Mobile,Low
+263,Boy,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+264,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+265,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Wifi,4G,1-3,No,Mobile,Moderate
+266,Girl,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+267,Girl,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+268,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+269,Boy,21-25,University,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+270,Boy,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+271,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+272,Boy,11-15,School,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+273,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+274,Girl,6-10,School,Non Government,No,Yes,Low,Mid,Mobile Data,2G,1-3,No,Mobile,Low
+275,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+276,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+277,Girl,21-25,University,Government,No,No,Low,Mid,Mobile Data,2G,1-3,No,Mobile,Low
+278,Boy,21-25,University,Non Government,No,No,Low,Poor,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+279,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+280,Boy,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Moderate
+281,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+282,Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+283,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1-3,Yes,Computer,Low
+284,Boy,21-25,University,Non Government,No,No,Low,Mid,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+285,Boy,21-25,College,Government,Yes,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Moderate
+286,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+287,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+288,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+289,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+290,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+291,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+292,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+293,Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+294,Girl,1-5,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+295,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+296,Boy,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Tab,Moderate
+297,Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+298,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+299,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+300,Boy,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Computer,Moderate
+301,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+302,Boy,1-5,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+303,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+304,Boy,21-25,University,Government,No,No,High,Poor,Mobile Data,4G,3-6,No,Mobile,Low
+305,Girl,16-20,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+306,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Tab,Moderate
+307,Boy,11-15,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1-3,No,Mobile,High
+308,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+309,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,High
+310,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+311,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+312,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+313,Boy,11-15,School,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+314,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+315,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+316,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+317,Girl,21-25,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+318,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+319,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+320,Boy,11-15,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1-3,No,Mobile,High
+321,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+322,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+323,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+324,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,3-6,Yes,Mobile,High
+325,Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+326,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+327,Boy,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+328,Boy,21-25,University,Non Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+329,Girl,21-25,College,Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,High
+330,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+331,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,No,Mobile,Low
+332,Girl,21-25,University,Non Government,No,Yes,High,Poor,Wifi,4G,3-6,No,Mobile,Low
+333,Girl,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,High
+334,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+335,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+336,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+337,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+338,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+339,Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Moderate
+340,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+341,Girl,21-25,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+342,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+343,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+344,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Computer,High
+345,Boy,21-25,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,1-3,Yes,Mobile,Low
+346,Girl,26-30,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+347,Boy,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+348,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+349,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,3-6,No,Mobile,Moderate
+350,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+351,Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Moderate
+352,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3-6,No,Mobile,Low
+353,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+354,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+355,Boy,16-20,College,Government,Yes,No,Low,Rich,Wifi,4G,0,No,Mobile,Moderate
+356,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+357,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+358,Girl,6-10,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+359,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+360,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+361,Girl,6-10,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,High
+362,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+363,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+364,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Mobile Data,3G,1-3,Yes,Mobile,Low
+365,Boy,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Computer,Moderate
+366,Girl,16-20,College,Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+367,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+368,Girl,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1-3,No,Mobile,Moderate
+369,Girl,16-20,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+370,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+371,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+372,Girl,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+373,Boy,26-30,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,High
+374,Boy,21-25,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+375,Girl,6-10,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,High
+376,Girl,11-15,School,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,High
+377,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,High
+378,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+379,Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+380,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+381,Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+382,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+383,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+384,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,High
+385,Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+386,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+387,Boy,11-15,School,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+388,Boy,26-30,University,Non Government,Yes,Yes,High,Poor,Mobile Data,3G,1-3,Yes,Computer,Low
+389,Girl,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,High
+390,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+391,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+392,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+393,Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+394,Girl,16-20,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+395,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+396,Girl,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+397,Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3-6,No,Mobile,Moderate
+398,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1-3,Yes,Computer,Low
+399,Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+400,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+401,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,High
+402,Boy,26-30,University,Government,Yes,Yes,Low,Mid,Wifi,4G,0,No,Computer,Moderate
+403,Boy,16-20,College,Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+404,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+405,Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+406,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Computer,Moderate
+407,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+408,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+409,Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+410,Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,Yes,Computer,Moderate
+411,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1-3,Yes,Computer,Low
+412,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+413,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+414,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+415,Boy,26-30,University,Government,Yes,Yes,Low,Mid,Wifi,4G,0,No,Computer,Moderate
+416,Boy,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+417,Boy,26-30,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,High
+418,Boy,16-20,University,Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Computer,High
+419,Girl,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+420,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+421,Girl,6-10,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+422,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+423,Girl,16-20,College,Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+424,Boy,1-5,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+425,Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Moderate
+426,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+427,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Computer,Moderate
+428,Boy,11-15,School,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Computer,Moderate
+429,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+430,Boy,21-25,University,Government,No,No,High,Poor,Mobile Data,4G,3-6,No,Mobile,Low
+431,Girl,26-30,University,Government,Yes,Yes,Low,Poor,Mobile Data,4G,0,No,Computer,Moderate
+432,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+433,Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+434,Girl,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,High
+435,Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+436,Girl,26-30,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+437,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+438,Boy,11-15,School,Non Government,No,Yes,High,Poor,Wifi,4G,1-3,No,Mobile,Low
+439,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,High
+440,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+441,Boy,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+442,Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+443,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+444,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+445,Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+446,Boy,21-25,College,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+447,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,High
+448,Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3-6,No,Mobile,Moderate
+449,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+450,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,3-6,No,Mobile,Moderate
+451,Girl,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3-6,No,Computer,Moderate
+452,Boy,1-5,School,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+453,Girl,16-20,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,0,No,Mobile,High
+454,Boy,21-25,University,Government,No,No,High,Poor,Mobile Data,4G,3-6,No,Mobile,Low
+455,Girl,21-25,University,Government,No,Yes,Low,Poor,Mobile Data,4G,0,No,Mobile,Moderate
+456,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+457,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+458,Boy,21-25,University,Government,No,No,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+459,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,3G,3-6,No,Computer,Low
+460,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+461,Boy,21-25,University,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+462,Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+463,Boy,21-25,University,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+464,Girl,11-15,School,Non Government,No,Yes,Low,Rich,Wifi,3G,1-3,No,Mobile,High
+465,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1-3,Yes,Computer,High
+466,Boy,21-25,College,Government,No,No,High,Poor,Mobile Data,3G,1-3,Yes,Mobile,Low
+467,Boy,11-15,School,Government,No,No,Low,Poor,Mobile Data,3G,0,No,Mobile,High
+468,Girl,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+469,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,High
+470,Boy,21-25,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,1-3,Yes,Mobile,Low
+471,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,High
+472,Boy,11-15,School,Government,No,No,Low,Poor,Mobile Data,3G,0,No,Mobile,High
+473,Boy,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+474,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+475,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+476,Boy,21-25,University,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+477,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+478,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+479,Boy,26-30,University,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+480,Girl,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1-3,No,Mobile,Moderate
+481,Boy,21-25,University,Government,No,No,High,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+482,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+483,Boy,16-20,College,Government,No,Yes,High,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+484,Boy,21-25,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+485,Boy,16-20,School,Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+486,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+487,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,1-3,Yes,Computer,High
+488,Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+489,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Wifi,3G,1-3,No,Mobile,Moderate
+490,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1-3,Yes,Computer,Low
+491,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+492,Boy,16-20,College,Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+493,Girl,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3-6,No,Computer,Moderate
+494,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+495,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+496,Boy,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,High
+497,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,High
+498,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+499,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+500,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+501,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+502,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+503,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Computer,High
+504,Girl,16-20,College,Government,No,No,High,Poor,Mobile Data,4G,0,No,Mobile,Low
+505,Boy,16-20,College,Government,No,No,High,Poor,Mobile Data,2G,1-3,No,Mobile,Low
+506,Girl,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+507,Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+508,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+509,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+510,Girl,16-20,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+511,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+512,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+513,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+514,Girl,11-15,School,Government,No,No,High,Poor,Mobile Data,2G,1-3,No,Mobile,Low
+515,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+516,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+517,Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,Yes,Computer,Moderate
+518,Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+519,Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+520,Girl,16-20,College,Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+521,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+522,Boy,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,High
+523,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Mobile,High
+524,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+525,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+526,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+527,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+528,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+529,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+530,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+531,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+532,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+533,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+534,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+535,Boy,16-20,University,Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Computer,High
+536,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+537,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+538,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+539,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+540,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+541,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+542,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+543,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+544,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+545,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+546,Girl,6-10,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,High
+547,Boy,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+548,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+549,Boy,26-30,University,Non Government,Yes,Yes,High,Poor,Mobile Data,3G,1-3,Yes,Computer,Low
+550,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+551,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+552,Boy,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+553,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+554,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1-3,Yes,Computer,High
+555,Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+556,Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+557,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,2G,3-6,No,Mobile,Moderate
+558,Girl,21-25,College,Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,High
+559,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+560,Boy,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Mobile,Low
+561,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+562,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+563,Boy,21-25,University,Government,No,No,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+564,Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+565,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,No,Computer,Moderate
+566,Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+567,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+568,Boy,16-20,College,Government,No,No,High,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+569,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3-6,No,Mobile,Moderate
+570,Boy,26-30,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+571,Boy,11-15,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1-3,No,Mobile,High
+572,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1-3,Yes,Computer,Low
+573,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+574,Girl,16-20,College,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,High
+575,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+576,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+577,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+578,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Mobile,High
+579,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+580,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Computer,Low
+581,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+582,Boy,16-20,College,Government,No,No,High,Poor,Mobile Data,2G,1-3,No,Mobile,Low
+583,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+584,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Computer,Moderate
+585,Girl,21-25,University,Non Government,Yes,No,High,Poor,Wifi,2G,3-6,Yes,Tab,Low
+586,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+587,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+588,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,3G,3-6,No,Mobile,Low
+589,Boy,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+590,Boy,16-20,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1-3,No,Mobile,Moderate
+591,Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+592,Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,No,Computer,Moderate
+593,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Computer,High
+594,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+595,Boy,16-20,College,Government,Yes,No,Low,Rich,Wifi,4G,0,No,Mobile,Moderate
+596,Boy,26-30,University,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+597,Boy,21-25,University,Government,No,No,High,Poor,Mobile Data,4G,3-6,No,Mobile,Low
+598,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,3-6,No,Mobile,Moderate
+599,Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+600,Girl,1-5,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+601,Girl,21-25,University,Government,No,Yes,Low,Poor,Mobile Data,4G,0,No,Mobile,Moderate
+602,Girl,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Tab,Moderate
+603,Girl,21-25,College,Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,High
+604,Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+605,Boy,21-25,University,Government,No,No,High,Poor,Mobile Data,4G,3-6,No,Mobile,Low
+606,Boy,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+607,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+608,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+609,Boy,1-5,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+610,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+611,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+612,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+613,Boy,21-25,University,Government,No,No,High,Mid,Wifi,4G,0,No,Mobile,Moderate
+614,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+615,Girl,6-10,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,High
+616,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+617,Girl,6-10,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+618,Girl,21-25,University,Government,No,Yes,Low,Poor,Mobile Data,4G,0,No,Mobile,Moderate
+619,Boy,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Computer,Moderate
+620,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+621,Girl,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,High
+622,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+623,Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+624,Boy,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+625,Boy,11-15,School,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Computer,Moderate
+626,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+627,Boy,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+628,Boy,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Mobile,Low
+629,Boy,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+630,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+631,Girl,16-20,College,Non Government,No,No,High,Mid,Wifi,4G,3-6,No,Mobile,Low
+632,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+633,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+634,Girl,21-25,University,Government,No,Yes,Low,Mid,Wifi,3G,0,Yes,Mobile,High
+635,Boy,11-15,School,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+636,Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+637,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+638,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+639,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+640,Boy,11-15,School,Non Government,No,Yes,Low,Rich,Mobile Data,4G,1-3,No,Mobile,Moderate
+641,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+642,Boy,16-20,College,Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+643,Girl,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+644,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+645,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+646,Boy,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Moderate
+647,Boy,26-30,University,Government,Yes,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+648,Boy,21-25,University,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+649,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+650,Girl,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+651,Boy,26-30,University,Government,Yes,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+652,Boy,16-20,College,Government,Yes,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+653,Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+654,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,3-6,Yes,Computer,Low
+655,Boy,11-15,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1-3,No,Mobile,High
+656,Boy,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+657,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+658,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+659,Girl,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+660,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+661,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+662,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+663,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+664,Boy,21-25,University,Non Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+665,Girl,16-20,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,3-6,Yes,Mobile,High
+666,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+667,Girl,11-15,School,Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+668,Boy,26-30,University,Government,Yes,Yes,Low,Mid,Wifi,4G,0,No,Computer,Moderate
+669,Boy,11-15,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1-3,No,Mobile,High
+670,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+671,Girl,21-25,University,Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+672,Girl,16-20,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+673,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+674,Girl,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+675,Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+676,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1-3,Yes,Computer,High
+677,Boy,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+678,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+679,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+680,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+681,Girl,6-10,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,High
+682,Girl,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+683,Boy,26-30,University,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+684,Boy,11-15,School,Government,No,No,Low,Poor,Mobile Data,3G,0,No,Mobile,High
+685,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+686,Boy,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+687,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,3G,3-6,No,Mobile,Low
+688,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+689,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1-3,Yes,Computer,Low
+690,Boy,26-30,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+691,Boy,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+692,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+693,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+694,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,3-6,Yes,Mobile,High
+695,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3-6,No,Mobile,Moderate
+696,Girl,6-10,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,High
+697,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Computer,High
+698,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+699,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+700,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+701,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+702,Girl,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+703,Girl,1-5,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+704,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+705,Girl,21-25,University,Non Government,Yes,No,High,Mid,Wifi,4G,1-3,Yes,Computer,Moderate
+706,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+707,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+708,Boy,21-25,University,Non Government,No,Yes,High,Mid,Mobile Data,3G,1-3,Yes,Mobile,High
+709,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+710,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+711,Boy,21-25,College,Government,Yes,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Moderate
+712,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+713,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+714,Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+715,Girl,11-15,School,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,High
+716,Girl,11-15,School,Non Government,No,Yes,Low,Rich,Wifi,3G,1-3,No,Mobile,High
+717,Girl,26-30,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+718,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+719,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,High
+720,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+721,Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+722,Boy,21-25,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,3-6,Yes,Mobile,Low
+723,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+724,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+725,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+726,Girl,16-20,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,3-6,Yes,Mobile,High
+727,Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+728,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+729,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+730,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Mobile,High
+731,Girl,16-20,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,1-3,Yes,Mobile,Low
+732,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+733,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1-3,Yes,Computer,Low
+734,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+735,Boy,11-15,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+736,Girl,16-20,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+737,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+738,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+739,Boy,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Moderate
+740,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Tab,Moderate
+741,Boy,11-15,School,Non Government,Yes,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+742,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+743,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+744,Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+745,Boy,21-25,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+746,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,High
+747,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+748,Boy,21-25,University,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+749,Boy,21-25,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,3-6,Yes,Mobile,Low
+750,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+751,Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+752,Boy,11-15,School,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+753,Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+754,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,2G,3-6,No,Mobile,Moderate
+755,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+756,Boy,16-20,University,Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Computer,High
+757,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,No,Mobile,Low
+758,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+759,Boy,21-25,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+760,Boy,16-20,College,Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+761,Girl,21-25,University,Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+762,Girl,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3-6,No,Computer,Moderate
+763,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+764,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+765,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+766,Girl,16-20,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+767,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+768,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+769,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+770,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+771,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+772,Girl,21-25,University,Non Government,Yes,No,High,Poor,Wifi,2G,3-6,Yes,Tab,Low
+773,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+774,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,3G,3-6,No,Mobile,Low
+775,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+776,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+777,Girl,21-25,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+778,Girl,6-10,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+779,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+780,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+781,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+782,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+783,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+784,Boy,21-25,University,Non Government,No,No,Low,Poor,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+785,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+786,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+787,Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+788,Boy,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Mobile,Low
+789,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+790,Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+791,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+792,Girl,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,High
+793,Girl,11-15,School,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,High
+794,Boy,21-25,University,Government,No,No,High,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+795,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+796,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+797,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,3-6,No,Mobile,Moderate
+798,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+799,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+800,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+801,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+802,Boy,11-15,School,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Computer,Moderate
+803,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+804,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,High
+805,Boy,6-10,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,High
+806,Girl,11-15,School,Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+807,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+808,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+809,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+810,Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,No,Computer,Moderate
+811,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+812,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3-6,No,Mobile,Low
+813,Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+814,Boy,11-15,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1-3,No,Mobile,High
+815,Girl,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+816,Boy,16-20,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1-3,No,Mobile,Moderate
+817,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+818,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+819,Boy,11-15,School,Government,No,No,Low,Poor,Mobile Data,3G,0,No,Mobile,High
+820,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+821,Girl,6-10,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+822,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+823,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+824,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+825,Boy,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+826,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+827,Girl,21-25,University,Non Government,Yes,No,High,Mid,Wifi,4G,1-3,Yes,Computer,Moderate
+828,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+829,Boy,16-20,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1-3,No,Mobile,Moderate
+830,Boy,16-20,College,Government,No,Yes,High,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+831,Boy,11-15,School,Non Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+832,Boy,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+833,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+834,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Computer,High
+835,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+836,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+837,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+838,Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+839,Girl,6-10,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+840,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+841,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+842,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+843,Boy,16-20,University,Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Computer,High
+844,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+845,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+846,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+847,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+848,Girl,6-10,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,High
+849,Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+850,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+851,Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+852,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+853,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+854,Girl,16-20,School,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+855,Girl,21-25,College,Government,No,No,High,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+856,Girl,11-15,School,Government,No,Yes,Low,Mid,Wifi,3G,1-3,No,Mobile,Low
+857,Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+858,Boy,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+859,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+860,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+861,Boy,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+862,Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+863,Girl,6-10,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,High
+864,Girl,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+865,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+866,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+867,Girl,16-20,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,3-6,Yes,Mobile,High
+868,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+869,Girl,6-10,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+870,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+871,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+872,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+873,Girl,16-20,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,0,No,Mobile,High
+874,Girl,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+875,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+876,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+877,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+878,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+879,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+880,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+881,Girl,11-15,School,Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+882,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+883,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,3-6,No,Mobile,Moderate
+884,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+885,Boy,16-20,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1-3,No,Mobile,Moderate
+886,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+887,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+888,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Computer,Moderate
+889,Boy,26-30,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+890,Boy,16-20,University,Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Computer,High
+891,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+892,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Wifi,3G,1-3,No,Mobile,Moderate
+893,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+894,Girl,6-10,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+895,Girl,21-25,University,Non Government,Yes,No,High,Mid,Wifi,4G,1-3,Yes,Computer,Moderate
+896,Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+897,Boy,16-20,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1-3,No,Mobile,Moderate
+898,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+899,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+900,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+901,Boy,21-25,University,Non Government,No,No,Low,Mid,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+902,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+903,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,High
+904,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+905,Boy,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Mobile,Low
+906,Girl,11-15,School,Government,No,Yes,Low,Mid,Wifi,3G,1-3,No,Mobile,Low
+907,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+908,Boy,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+909,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+910,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+911,Boy,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+912,Boy,21-25,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+913,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+914,Girl,6-10,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+915,Boy,21-25,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+916,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+917,Boy,26-30,University,Government,Yes,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+918,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1-3,Yes,Computer,Low
+919,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+920,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+921,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+922,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,No,Computer,Moderate
+923,Boy,16-20,College,Government,Yes,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+924,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,High
+925,Girl,21-25,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+926,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+927,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+928,Boy,6-10,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+929,Girl,11-15,School,Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+930,Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+931,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+932,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+933,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,3G,3-6,No,Computer,Low
+934,Boy,6-10,School,Government,No,No,High,Mid,Mobile Data,2G,0,No,Mobile,High
+935,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Tab,Moderate
+936,Boy,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Tab,Moderate
+937,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+938,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+939,Girl,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+940,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+941,Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+942,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+943,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+944,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+945,Boy,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+946,Boy,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+947,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+948,Boy,16-20,College,Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+949,Boy,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+950,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,3G,3-6,No,Mobile,Low
+951,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+952,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,High
+953,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+954,Girl,6-10,School,Non Government,No,Yes,Low,Mid,Wifi,3G,1-3,No,Mobile,High
+955,Boy,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,High
+956,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+957,Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+958,Boy,6-10,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+959,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+960,Girl,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+961,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+962,Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,Yes,Computer,Moderate
+963,Girl,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+964,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3-6,No,Mobile,Low
+965,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+966,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+967,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+968,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+969,Boy,26-30,University,Government,Yes,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+970,Girl,11-15,School,Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+971,Girl,11-15,School,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,High
+972,Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+973,Boy,16-20,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1-3,No,Mobile,Moderate
+974,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,High
+975,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+976,Boy,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+977,Boy,6-10,School,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+978,Boy,6-10,School,Government,No,No,High,Mid,Mobile Data,2G,0,No,Mobile,High
+979,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+980,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+981,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+982,Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+983,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,High
+984,Girl,21-25,College,Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,High
+985,Boy,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+986,Boy,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+987,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+988,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+989,Boy,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Moderate
+990,Girl,21-25,University,Non Government,No,Yes,High,Poor,Wifi,4G,3-6,No,Mobile,Low
+991,Boy,11-15,School,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Computer,Moderate
+992,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+993,Boy,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+994,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+995,Girl,16-20,School,Government,No,No,Low,Rich,Mobile Data,4G,1-3,No,Mobile,Moderate
+996,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+997,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+998,Girl,11-15,School,Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+999,Boy,16-20,University,Government,No,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+1000,Boy,11-15,School,Non Government,No,Yes,High,Poor,Wifi,4G,0,No,Mobile,Low
+1001,Girl,16-20,College,Non Government,No,No,High,Mid,Wifi,4G,3-6,No,Mobile,Low
+1002,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Mobile Data,3G,1-3,Yes,Mobile,Low
+1003,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1004,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1005,Boy,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+1006,Girl,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Computer,Moderate
+1007,Girl,21-25,University,Non Government,No,Yes,High,Mid,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+1008,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+1009,Boy,11-15,School,Non Government,No,Yes,High,Poor,Wifi,4G,0,No,Mobile,Low
+1010,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+1011,Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+1012,Girl,21-25,University,Government,No,No,Low,Mid,Mobile Data,2G,1-3,No,Mobile,Low
+1013,Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+1014,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+1015,Boy,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+1016,Boy,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+1017,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1018,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+1019,Boy,11-15,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1-3,No,Mobile,High
+1020,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+1021,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1-3,Yes,Computer,High
+1022,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3-6,No,Mobile,Moderate
+1023,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+1024,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+1025,Boy,26-30,University,Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1026,Boy,11-15,School,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Computer,Moderate
+1027,Girl,16-20,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+1028,Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+1029,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+1030,Girl,11-15,School,Government,No,Yes,Low,Mid,Wifi,3G,1-3,No,Mobile,Low
+1031,Girl,6-10,School,Non Government,No,Yes,Low,Mid,Wifi,3G,1-3,No,Mobile,High
+1032,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+1033,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1034,Girl,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3-6,No,Computer,Moderate
+1035,Girl,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+1036,Boy,1-5,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+1037,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+1038,Girl,16-20,College,Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+1039,Girl,11-15,School,Non Government,No,Yes,Low,Rich,Wifi,3G,1-3,No,Mobile,High
+1040,Boy,11-15,School,Non Government,No,Yes,High,Poor,Wifi,4G,0,No,Mobile,Low
+1041,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+1042,Boy,21-25,University,Non Government,No,Yes,High,Mid,Mobile Data,3G,1-3,Yes,Mobile,High
+1043,Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+1044,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3-6,No,Mobile,Low
+1045,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Computer,Low
+1046,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+1047,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1048,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1049,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+1050,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1051,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,High
+1052,Girl,11-15,School,Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+1053,Boy,11-15,School,Non Government,No,Yes,High,Poor,Wifi,4G,0,No,Mobile,Low
+1054,Boy,1-5,School,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+1055,Girl,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+1056,Girl,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Tab,Moderate
+1057,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+1058,Girl,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3-6,No,Computer,Moderate
+1059,Boy,11-15,School,Non Government,No,Yes,High,Poor,Wifi,4G,0,No,Mobile,Low
+1060,Boy,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Moderate
+1061,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1-3,Yes,Computer,High
+1062,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,No,Computer,Moderate
+1063,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+1064,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+1065,Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,No,Computer,Moderate
+1066,Boy,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,High
+1067,Boy,21-25,University,Government,No,No,High,Mid,Wifi,4G,0,No,Mobile,Moderate
+1068,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+1069,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Mobile,High
+1070,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+1071,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1072,Boy,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+1073,Girl,21-25,University,Government,No,Yes,Low,Mid,Wifi,3G,0,Yes,Mobile,High
+1074,Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+1075,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,3-6,Yes,Computer,Low
+1076,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1077,Boy,16-20,College,Government,No,Yes,High,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1078,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+1079,Boy,16-20,College,Government,No,No,High,Poor,Mobile Data,2G,1-3,No,Mobile,Low
+1080,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,3-6,Yes,Mobile,High
+1081,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+1082,Boy,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+1083,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1084,Girl,16-20,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,1-3,Yes,Mobile,Low
+1085,Boy,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+1086,Boy,16-20,College,Government,Yes,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+1087,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1088,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+1089,Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+1090,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+1091,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+1092,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,3-6,Yes,Mobile,High
+1093,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+1094,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1095,Girl,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3-6,No,Computer,Moderate
+1096,Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,3G,3-6,Yes,Mobile,Low
+1097,Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3-6,No,Mobile,Moderate
+1098,Girl,16-20,College,Non Government,No,No,High,Mid,Wifi,4G,3-6,No,Mobile,Low
+1099,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Wifi,3G,1-3,No,Mobile,Moderate
+1100,Boy,11-15,School,Non Government,No,Yes,High,Poor,Wifi,4G,0,No,Mobile,Low
+1101,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1102,Girl,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+1103,Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+1104,Boy,11-15,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1-3,No,Mobile,High
+1105,Boy,16-20,School,Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+1106,Girl,6-10,School,Non Government,No,Yes,Low,Mid,Wifi,3G,1-3,No,Mobile,High
+1107,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+1108,Boy,6-10,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+1109,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,3-6,No,Mobile,Moderate
+1110,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,High
+1111,Boy,16-20,College,Government,No,No,High,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+1112,Boy,11-15,School,Non Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+1113,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+1114,Girl,11-15,School,Non Government,No,Yes,Low,Rich,Wifi,3G,1-3,No,Mobile,High
+1115,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+1116,Boy,16-20,College,Government,No,Yes,High,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1117,Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+1118,Girl,16-20,College,Non Government,No,No,High,Mid,Wifi,4G,3-6,No,Mobile,Low
+1119,Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+1120,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1121,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1122,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+1123,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Tab,Moderate
+1124,Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,3-6,No,Computer,Low
+1125,Girl,11-15,School,Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+1126,Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,3-6,No,Computer,Low
+1127,Boy,6-10,School,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+1128,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+1129,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+1130,Boy,11-15,School,Non Government,No,Yes,High,Poor,Wifi,4G,1-3,No,Mobile,Low
+1131,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+1132,Boy,16-20,College,Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+1133,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1134,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+1135,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+1136,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+1137,Girl,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+1138,Girl,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,High
+1139,Boy,21-25,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+1140,Girl,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,High
+1141,Boy,11-15,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1-3,No,Mobile,High
+1142,Girl,16-20,School,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1143,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,3-6,Yes,Mobile,High
+1144,Boy,16-20,College,Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+1145,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Tab,Moderate
+1146,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+1147,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1148,Boy,16-20,College,Government,No,Yes,High,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1149,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,High
+1150,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1151,Girl,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+1152,Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1153,Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1154,Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,3-6,No,Computer,Low
+1155,Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+1156,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+1157,Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,No,Computer,Moderate
+1158,Girl,21-25,University,Government,No,No,Low,Mid,Mobile Data,2G,1-3,No,Mobile,Low
+1159,Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+1160,Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,1-3,Yes,Mobile,High
+1161,Girl,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+1162,Girl,16-20,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,1-3,Yes,Mobile,Low
+1163,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3-6,No,Mobile,Moderate
+1164,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3-6,No,Mobile,Moderate
+1165,Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,1-3,Yes,Mobile,High
+1166,Girl,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+1167,Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1168,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+1169,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,3-6,Yes,Mobile,High
+1170,Boy,21-25,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,3-6,Yes,Mobile,Low
+1171,Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+1172,Boy,21-25,University,Government,No,No,High,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1173,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1174,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,3-6,No,Mobile,Moderate
+1175,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+1176,Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,No,Computer,Moderate
+1177,Boy,6-10,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,High
+1178,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+1179,Girl,11-15,School,Non Government,No,Yes,Low,Rich,Wifi,3G,1-3,No,Mobile,High
+1180,Boy,1-5,School,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+1181,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+1182,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1-3,Yes,Computer,High
+1183,Girl,16-20,College,Government,No,No,High,Poor,Mobile Data,4G,0,No,Mobile,Low
+1184,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+1185,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+1186,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+1187,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+1188,Boy,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+1189,Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+1190,Boy,26-30,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,High
+1191,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+1192,Boy,16-20,College,Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+1193,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1-3,Yes,Computer,Low
+1194,Boy,11-15,School,Non Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+1195,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1-3,Yes,Computer,Low
+1196,Boy,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+1197,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,3-6,No,Computer,Moderate
+1198,Boy,16-20,College,Government,Yes,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+1199,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+1200,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+1201,Girl,16-20,College,Non Government,No,No,High,Mid,Wifi,4G,3-6,No,Mobile,Low
+1202,Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+1203,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+1204,Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
